@@ -57,6 +57,7 @@ export const InputContainer = () => {
               borderColor: "rgb(187, 187, 187)",
               borderRadius: "100px",
               backgroundColor: "rgba(127, 119, 240, 0.138)",
+              fontSize: "5vh",
             }}
           />
         </div>
@@ -72,6 +73,7 @@ export const InputContainer = () => {
               borderColor: "rgb(187, 187, 187)",
               borderRadius: "100px",
               backgroundColor: "rgba(127, 119, 240, 0.138)",
+              fontSize: "5vh",
             }}
           />
         </div>
